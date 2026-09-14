@@ -8,8 +8,12 @@
 
 [![Followers](https://img.shields.io/github/followers/cli0xfa?style=flat-square&label=Followers&color=58A6FF&logo=github)](https://github.com/cli0xfa?tab=followers)
 [![Repos](https://img.shields.io/badge/dynamic/json?style=flat-square&label=Public%20Repos&color=58A6FF&logo=github&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fcli0xfa)](https://github.com/cli0xfa?tab=repositories)
+[![Bilibili](https://img.shields.io/badge/Bilibili-cli0xfa-FB7299?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/3461573678991639)
+[![Bilibili Fans](https://img.shields.io/badge/dynamic/json?style=flat-square&label=Bilibili%20Fans&color=FB7299&logo=bilibili&logoColor=white&query=%24.data.follower&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D3461573678991639)](https://space.bilibili.com/3461573678991639)
 
 </div>
+
+> 由于作者实在太懒 该页面由 AI 生成 本人没实力（）
 
 ---
 
